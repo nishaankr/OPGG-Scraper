@@ -7,6 +7,8 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
 ![OP.GG](https://img.shields.io/badge/Data%20Source-OP.GG-purple)
 
+> 🔗 **Example profile this was built and tested on:** [Afroyobro2 (EUW)](https://op.gg/lol/summoners/euw/Afroyobro2-EUW)
+
 A Python web scraper that extracts full match history from any OP.GG summoner profile and saves it to a CSV file.
 
 ---
