@@ -19,7 +19,7 @@ A Python web scraper that extracts full match history from any OP.GG summoner pr
 
 This is what a single match card looks like on OP.GG — the scraper extracts Result, KDA, and Duration from each one:
 
-![Match Card](Assets/match_card.jpg)
+![Match Card](Assets/MatchCard.JPG)
 
 ---
 
