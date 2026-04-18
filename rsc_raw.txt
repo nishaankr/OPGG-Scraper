@@ -1,0 +1,1 @@
+0:{"b":"1776271853","f":[["children",["locale","en","d"],[["locale","en","d"],{"children":["lol",{"children":["summoners",{"children":[["region","euw","d"],{"children":[["summoner","Afroyobro2-EUW","d"],{"children":["__PAGE__",{}]}]}]}]}]},"$undefined","$undefined",true],null,[null,null],true]],"S":false}
