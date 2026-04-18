@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 
-SUMMONER_URL = "https://op.gg/lol/summoners/euw/Afroyobro2-EUW"
+SUMMONER_URL = "https://op.gg/lol/summoners/euw/G2%20Caps-1323"
 
 with sync_playwright() as p:
     browser = p.chromium.launch(

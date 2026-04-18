@@ -1,3 +1,5 @@
+## Add Manual update click feature because site does not load matches on its own
+
 import re
 import csv
 import requests
