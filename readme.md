@@ -1,5 +1,12 @@
 # OP.GG Match History Scraper
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Chromium-green?logo=playwright&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-HTTP-orange?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
+![OP.GG](https://img.shields.io/badge/Data%20Source-OP.GG-purple)
+
 A Python web scraper that extracts full match history from any OP.GG summoner profile and saves it to a CSV file.
 
 ---
